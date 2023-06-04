@@ -1,5 +1,8 @@
 ### Hi there 👋
-![resume (1)](https://user-images.githubusercontent.com/57609408/177197509-7d06aa8c-1ec7-46db-9621-416d4037ee33.png)
+![Saurabh bhoi](https://github.com/saurabhbhoi/saurabhbhoi/assets/57609408/322d36e7-fffc-4231-8d44-b2bba4f9e002)
+
+
+
 
 <!--
 **saurabhbhoi/saurabhbhoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
